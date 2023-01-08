@@ -8,4 +8,3 @@ Aplikasi penyewaan mobil adalah aplikasi yang terbentuk untuk sebuah perseoranga
 
 Link Persentasi Youtube :https://www.youtube.com/watch?v=Di4JyyPaRss
 
-NOTE : JALANKAN PROGRAM MENGGUNAKAN EMU8086 🙏
